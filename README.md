@@ -14,7 +14,7 @@ Churn analysis is a critical process for telecom companies as it helps them iden
 
  **Data/Program Description**
 
- The telecom company from the US provided the data with 98230 customers over 73 unique features. The features are related to customer demographics, personal information, and usage.
+The telecom company from the US provided the data with 98230 customers over 73 unique features. The features are related to customer demographics, personal information, and usage.
 
 ●    Language - Python, SQL
 
